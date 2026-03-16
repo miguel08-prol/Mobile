@@ -1,10 +1,4 @@
-# 📱 [Nome do seu Aplicativo]
-
-> [Uma frase de efeito ou descrição curta do que o app faz. Ex: "Um app de finanças para controle de gastos diários com foco em UX."]
-
-![GitHub repo size](https://img.shields.io[seu-usuario]/[nome-do-repo]?style=for-the-badge)
-![GitHub language count](https://img.shields.io[seu-usuario]/[nome-do-repo]?style=for-the-badge)
-![Status](https://img.shields.io)
+# 📱 [Aplicações Mobile]
 
 ---
 
