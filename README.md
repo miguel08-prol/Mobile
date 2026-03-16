@@ -8,17 +8,6 @@
 
 ---
 
-## 📸 Screenshots & Demo
-
-Aqui você mostra o "corpo" do seu trabalho. Dica: Use GIFs para mostrar transições.
-
-
-| Splash Screen | Login / Cadastro | Home / Dashboard |
-| :---: | :---: | :---: |
-| <img src="https://via.placeholder.com" width="200"> | <img src="https://via.placeholder.com" width="200"> | <img src="https://via.placeholder.com" width="200"> |
-
----
-
 ## ✨ Funcionalidades Principais
 
 - ✅ **Autenticação:** Login seguro via Firebase/Auth0.
