@@ -223,7 +223,7 @@ class _AppCadastroState extends State<AppCadastro> {
                         color: concluido ? Colors.grey[100] : Colors.white,
                         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
                         child: ListTile(
-                          onTap: () => mostrarDialogoEdicao(context, item),
+                          // Removido o onTap do Card
                           leading: Checkbox(
                             value: concluido,
                             shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(5)),
@@ -244,9 +244,19 @@ class _AppCadastroState extends State<AppCadastro> {
                               decoration: concluido ? TextDecoration.lineThrough : null,
                             ),
                           ),
-                          trailing: IconButton(
-                            icon: Icon(Icons.delete_outline, color: Colors.redAccent),
-                            onPressed: () => deletarItem(item["id"]),
+                          // Agora temos dois ícones na direita
+                          trailing: Row(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              IconButton(
+                                icon: Icon(Icons.edit, color: Colors.blueAccent),
+                                onPressed: () => mostrarDialogoEdicao(context, item),
+                              ),
+                              IconButton(
+                                icon: Icon(Icons.delete_outline, color: Colors.redAccent),
+                                onPressed: () => deletarItem(item["id"]),
+                              ),
+                            ],
                           ),
                         ),
                       );
