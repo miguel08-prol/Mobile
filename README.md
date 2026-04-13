@@ -20,9 +20,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1758577515339-93872db0d37e?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tela Inicial" width="200" style="border-radius: 10px; margin: 0 10px;">
-  <img src="https://media.istockphoto.com/id/2202810194/pt/foto/login-authentication-screen-with-username-and-password-input-fields.jpg?s=1024x1024&w=is&k=20&c=F9_9fiMqHlXGqMaZvobrjlMuyJDQx-Ly1dMtdyCc0Zo=" alt="Tela de Login" width="200" style="border-radius: 10px; margin: 0 10px;">
-  <img src="https://images.unsplash.com/photo-1603210119594-b731d958ce31?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Perfil" width="200" style="border-radius: 10px; margin: 0 10px;">
+  <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tela Inicial" width="200" style="border-radius: 10px; margin: 0 10px;">
+  <img src="https://images.unsplash.com/photo-1533022139390-e31c488d69e2?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Tela de Login" width="200" style="border-radius: 10px; margin: 0 10px;">
+  <img src="https://images.unsplash.com/photo-1601972602237-8c79241e468b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Perfil" width="200" style="border-radius: 10px; margin: 0 10px;">
 </div>
 
 ---
