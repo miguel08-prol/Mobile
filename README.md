@@ -73,7 +73,7 @@ As ferramentas que compõem a base dos projetos contidos aqui:
 
 ## 📂 Como Navegar e Executar
 
-Como este é um repositório focado em estudos, ele é um "repositorio" contendo várias pastas independentes.
+Como este é um repositório focado em estudos, ele é um "repositório duplicado" contendo várias pastas independentes.
 
 ### Pré-requisitos
 Certifique-se de ter instalado em sua máquina:
